@@ -1,0 +1,16 @@
+Coinbase Onramp is packed with features that make it a standout solution for developers:Simple UX: The intuitive interface allows users to fund wallets in just a few clicks, reducing onboarding friction.
+
+Zero Fees for USDC: Buying and transferring USDC on Base, Coinbase’s Ethereum Layer 2 solution, is free, making it cost-effective for users and developers. Developers can contact Coinbase to enable no-fee USDC transactions.
+
+No Chargebacks: Coinbase manages fraud claims and customer support, freeing developers from handling disputes or chargeback issues.
+
+Built-in KYC and Compliance: Coinbase takes care of user verification and regulatory compliance, ensuring secure and compliant transactions.
+
+Global Accessibility: Supports over 60 fiat currencies and multiple blockchains, making it suitable for a global user base.
+
+Headless API: The Onramp API allows developers to create customized, in-app fiat-to-crypto experiences without redirects or pop-ups, enhancing user engagement.
+
+Integration with Base: Built on Base, Coinbase’s low-cost Ethereum Layer 2 solution, Onramp ensures fast and affordable transactions.
+
+Trusted by Industry Leaders: Onramp is used by top builders like Axiom, Renzo, and WalletConnect to enable seamless fiat-to-crypto transactions in their applications.
+
