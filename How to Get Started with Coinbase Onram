@@ -1,0 +1,12 @@
+pReady to integrate Coinbase Onramp into your application? Follow these steps:Visit the Coinbase Developer Platform: Explore documentation and resources at cdp.coinbase.com.
+
+Get API Credentials: Sign up at portal.cdp.coinbase.com to obtain your API key and Wallet Secret.
+
+Clone Demo Apps: Use Coinbase’s GitHub repositories, such as the Onramp demo app, to jumpstart your integration.
+
+Join the Community: Connect with other developers on Coinbase’s Discord or explore tutorials and AMAs for guidance.
+
+Contact Support: For enterprise inquiries or no-fee USDC setup, reach out to Coinbase’s support team via cdp.coinbase.com.
+
+For a hands-on experience, check out Coinbase’s Onramp Demo + AMA or explore the OnchainKit documentation for ready-to-use components.
+
