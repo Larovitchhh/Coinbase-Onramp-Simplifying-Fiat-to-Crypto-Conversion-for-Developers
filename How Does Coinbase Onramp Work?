@@ -1,0 +1,8 @@
+Coinbase Onramp is designed to be simple, composable, and globally accessible. Here’s a step-by-step look at how it functions:1. Integration with ApplicationsDevelopers can integrate Onramp into their apps using Coinbase’s APIs or ready-to-use components like the <FundCard /> React component. This allows users to fund their crypto wallets directly within the app, without needing to navigate to an external platform. For apps with a backend, developers can generate a one-click-buy URL for the fastest fiat-to-crypto conversion experience.
+
+2. Payment OptionsOnramp supports over 60 fiat currencies and multiple payment methods, including:Apple Pay: For quick and secure transactions.
+Debit/Credit Cards: Widely accepted for user convenience.
+Bank Transfers: For larger transactions or users without cards.
+
+This flexibility ensures users from various regions can easily convert fiat to crypto, such as USDC, ETH, or other supported tokens.3. KYC and ComplianceCoinbase handles KYC and compliance requirements, eliminating the need for developers to verify users or store sensitive payment information. This reduces the burden on developers and ensures regulatory compliance across supported regions.
+
