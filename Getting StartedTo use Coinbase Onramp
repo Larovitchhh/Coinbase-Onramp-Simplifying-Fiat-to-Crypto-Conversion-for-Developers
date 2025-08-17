@@ -1,0 +1,6 @@
+, developers need to:Sign Up: Register at portal.cdp.coinbase.com and obtain API credentials (Secret API key and Wallet Secret).
+
+Integrate APIs or SDKs: Use Coinbase’s documentation to integrate Onramp’s APIs or SDKs, such as the <FundCard /> component or one-click-buy URLs.
+Test and Deploy: Test the integration in a sandbox environment before deploying to production, ensuring a smooth user experience.
+Leverage Support: Access Coinbase’s developer resources, including GitHub repositories, Discord communities, and direct support for assistance.
+
